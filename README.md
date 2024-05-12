@@ -15,6 +15,7 @@ $_ python wp.py --help
 --------------------------------------------------------
 > [!NOTE]
 > fork that!!!
+> pleas star it
 
 
 > [!CAUTION]
