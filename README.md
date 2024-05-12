@@ -14,8 +14,7 @@ $_ python wp.py --help
 ```
 --------------------------------------------------------
 > [!NOTE]
-> fork that!!!
-> pleas star it
+> fork it!!! and pleas star it
 
 
 > [!CAUTION]
