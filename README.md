@@ -1,7 +1,15 @@
 # <p align="center"> ${\color{red}WP}$ --> ${\color{green}wificracker}$ version 1.0
 ## haved password maker for number (099 or 0915 or ...)
 ## tried that in -> WINDOWS and KALI
---------------------------------------------------------
+----------------------------------------
+----------------
+# فارسی: 
+## یک وای فای کرکر با پایتون با سرعت نسبتا خوب که کارو درمیاره ⚡
+## روی ویندوز و کالی امتحان شده. کار میکنه. 
+## چون بیشتر پسوورد وای فای ها شماره تلفنه یک ابزار هم برای ساخت شماره تلفن رندوم گذاشتم. 🤖
+## امیدوارم خوشتون بیاد🎩
+> [!NOTE]
+> ستاره یادتون نره! 🌟
 # how to install and RUN now?
 > in unix:
 ```shell
@@ -14,15 +22,15 @@ $_ python wp.py --help
 ```
 --------------------------------------------------------
 > [!NOTE]
-> fork it!!! and pleas star it
+> fork it!!! and pleas star it 🌟
 
 
 > [!CAUTION]
-> it is just for FUN
+> it is just for FUN 🙃
 --------------------------------------------------------
 - Password list : +1000Number becuse other passwords wifi is Number
 - password maker : you can make password with ``` passmaker.py ```
-- Speed : relatively good and Practical
+- Speed : relatively good and Practical⚡
 - Who write that? : SeFi or Y0S3F
 - writed by : <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
 --------------------------------------------------------
